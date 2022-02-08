@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\obj\Debug\Listeler.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\obj\Debug\Listeler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\bin\Debug\Listeler.exe.config
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\bin\Debug\Listeler.exe
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\bin\Debug\Listeler.pdb
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\obj\Debug\Listeler.exe
+C:\Users\Asus\Desktop\c# 2021\15.08.2021\Listeler\obj\Debug\Listeler.pdb
