@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\bin\Debug\Cars.exe.config
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\bin\Debug\Cars.exe
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\bin\Debug\Cars.pdb
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.exe
+C:\Users\Asus\Desktop\c# 2021\30.10.2021\Cars\obj\Debug\Cars.pdb
