@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\bin\Debug\Donguler_Baslangic.exe.config
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\bin\Debug\Donguler_Baslangic.exe
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\bin\Debug\Donguler_Baslangic.pdb
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\obj\Debug\Donguler_Baslangic.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\obj\Debug\Donguler_Baslangic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\obj\Debug\Donguler_Baslangic.exe
+C:\Users\Asus\Desktop\c# 2021\08.08.2021\Donguler_Baslangic\obj\Debug\Donguler_Baslangic.pdb
