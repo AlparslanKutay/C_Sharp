@@ -1,0 +1,7 @@
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\bin\Debug\GenericList.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\bin\Debug\GenericList.pdb
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\obj\Debug\GenericList.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\obj\Debug\GenericList.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\GenericList\GenericList\obj\Debug\GenericList.pdb
