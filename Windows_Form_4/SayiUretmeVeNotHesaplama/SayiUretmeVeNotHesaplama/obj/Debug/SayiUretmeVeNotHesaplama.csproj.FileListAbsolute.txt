@@ -1,0 +1,12 @@
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.Form1.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.NotHesaplama.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.Properties.Resources.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.csproj.GenerateResource.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\bin\Debug\SayiUretmeVeNotHesaplama.exe.config
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\bin\Debug\SayiUretmeVeNotHesaplama.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\bin\Debug\SayiUretmeVeNotHesaplama.pdb
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.pdb
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\SayiUretmeVeNotHesaplama\SayiUretmeVeNotHesaplama\obj\Debug\SayiUretmeVeNotHesaplama.SayiUretme.resources
