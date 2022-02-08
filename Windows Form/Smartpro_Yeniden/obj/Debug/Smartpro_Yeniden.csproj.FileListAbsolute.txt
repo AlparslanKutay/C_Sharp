@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\bin\Debug\Smartpro_Yeniden.exe.config
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\bin\Debug\Smartpro_Yeniden.exe
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\bin\Debug\Smartpro_Yeniden.pdb
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.exe
+C:\Users\Asus\Desktop\c# 2021\16.10.2021\Windows Form\Smartpro_Yeniden\obj\Debug\Smartpro_Yeniden.pdb
