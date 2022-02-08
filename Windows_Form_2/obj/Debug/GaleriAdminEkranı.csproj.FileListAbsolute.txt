@@ -1,0 +1,20 @@
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\bin\Debug\GaleriAdminEkranı.exe.config
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\bin\Debug\GaleriAdminEkranı.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\bin\Debug\GaleriAdminEkranı.pdb
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.csprojAssemblyReference.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.Properties.Resources.resources
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.csproj.GenerateResource.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.csproj.CoreCompileInputs.cache
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.exe
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.pdb
+C:\Users\local.egitmen\Desktop\101 Öğlen HaftaSonu\Windows Form App\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\bin\Debug\GaleriAdminEkranı.exe.config
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\bin\Debug\GaleriAdminEkranı.exe
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\bin\Debug\GaleriAdminEkranı.pdb
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.exe
+C:\Users\Asus\Desktop\c# 2021\23.10.2021\GaleriAdminEkranı\obj\Debug\GaleriAdminEkranı.pdb
