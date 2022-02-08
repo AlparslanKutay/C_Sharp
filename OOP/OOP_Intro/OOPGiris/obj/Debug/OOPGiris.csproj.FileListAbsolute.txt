@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\bin\Debug\OOPGiris.exe.config
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\bin\Debug\OOPGiris.exe
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\bin\Debug\OOPGiris.pdb
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.exe
+C:\Users\Asus\Desktop\c# 2021\31.10.2021\OOPGiris\obj\Debug\OOPGiris.pdb
