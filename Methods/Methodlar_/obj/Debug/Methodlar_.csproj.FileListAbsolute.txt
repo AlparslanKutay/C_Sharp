@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\bin\Debug\Methodlar_.exe.config
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\bin\Debug\Methodlar_.exe
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\bin\Debug\Methodlar_.pdb
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\obj\Debug\Methodlar_.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\obj\Debug\Methodlar_.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\obj\Debug\Methodlar_.exe
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_\obj\Debug\Methodlar_.pdb

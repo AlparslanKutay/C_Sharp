@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\bin\Debug\Methodlar_devam.exe.config
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\bin\Debug\Methodlar_devam.exe
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\bin\Debug\Methodlar_devam.pdb
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\obj\Debug\Methodlar_devam.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\obj\Debug\Methodlar_devam.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\obj\Debug\Methodlar_devam.exe
+C:\Users\Asus\Desktop\c# 2021\28.08.2021\Methodlar\Methodlar_devam\obj\Debug\Methodlar_devam.pdb
