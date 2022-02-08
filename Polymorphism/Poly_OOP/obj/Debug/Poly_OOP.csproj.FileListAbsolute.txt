@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\bin\Debug\Poly_OOP.exe.config
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\bin\Debug\Poly_OOP.exe
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\bin\Debug\Poly_OOP.pdb
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.exe
+C:\Users\Asus\Desktop\c# 2021\6.112021\Poly_OOP\obj\Debug\Poly_OOP.pdb
