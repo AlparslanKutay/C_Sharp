@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\bin\Debug\Enc_OOP.exe.config
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\bin\Debug\Enc_OOP.exe
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\bin\Debug\Enc_OOP.pdb
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.Form1.resources
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.Properties.Resources.resources
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.exe
+C:\Users\Asus\Desktop\c# 2021\6.112021\Enc_OOP\obj\Debug\Enc_OOP.pdb
