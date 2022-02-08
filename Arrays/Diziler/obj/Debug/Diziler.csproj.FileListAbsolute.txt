@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\bin\Debug\Diziler.exe
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\bin\Debug\Diziler.pdb
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\obj\Debug\Diziler.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\obj\Debug\Diziler.exe
+C:\Users\Asus\Desktop\c# 2021\14.08.2021\Diziler\obj\Debug\Diziler.pdb
